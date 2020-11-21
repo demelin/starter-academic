@@ -13,10 +13,10 @@ publishDate: 2020-11-21T14:14:05Z
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Detecting Word Sense Disambiguation Biases in Machine Translation for Model-Agnostic Adversarial Attacks"
+publication: "*Proceedings of the Conference on Empirical Methods in Natural Language Processing (**EMNLP**)*"
 publication_short: ""
 
 abstract: Word sense disambiguation is a well-known source of translation errors in NMT. We posit that some of the incorrect disambiguation choices are due to models’ over-reliance on dataset artifacts found in training data, specifically superficial word co-occurrences, rather than a deeper understanding of the source text. We introduce a method for the prediction of disambiguation errors based on statistical data properties, demonstrating its effectiveness across several domains and model types. Moreover, we develop a simple adversarial attack strategy that minimally perturbs sentences in order to elicit disambiguation errors to further probe the robustness of translation models. Our findings indicate that disambiguation robustness varies substantially between domains and that different models trained on the same data are vulnerable to different attacks.
@@ -26,7 +26,7 @@ summary: "We introduce a method for the prediction of disambiguation errors base
 
 tags: [translation, emnlp, adversarial, data biases, word sense disambiguation]
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

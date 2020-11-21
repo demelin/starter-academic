@@ -16,7 +16,7 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The University of Edinburgh's Submissions to the WMT18 News Translation Task"
+publication: "*Proceedings of the Fourth Conference on Machine Translation (**WMT**)*"
 publication_short: ""
 
 abstract: The University of Edinburgh made submissions to all 14 language pairs in the news translation task, with strong performances in most pairs. We introduce new RNN-variant, mixed RNN/Transformer ensembles, data selection and weighting, and extensions to back-translation.
