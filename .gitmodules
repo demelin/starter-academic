@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/demelin/demelin.github.io.git
+	branch = master
