@@ -32,6 +32,7 @@ subtitle = ""
 +++
 |          |                                                                                                                                  |
 |----------|----------------------------------------------------------------------------------------------------------------------------------|
+| Dec 2020 | Published ['Moral Stories: Situated Reasoning about Norms, Intents, Actions, and their Consequences'](https://arxiv.org/pdf/2012.15738.pdf). Many thanks to my wonderful collaborators!|
 | Nov 2020 | Presented ['Detecting Word Sense Disambiguation Biases in Machine Translation for Model-Agnostic Adversarial Attacks'](https://www.aclweb.org/anthology/2020.emnlp-main.616.pdf) at [EMNPLP 2020](https://slideslive.com/38939052) |
 | Sep 2020 | ['Detecting Word Sense Disambiguation Biases in Machine Translation for Model-Agnostic Adversarial Attacks'](https://arxiv.org/abs/2011.01846) has been accepted as a long paper to EMNLP 2020! |
 | Jun 2020 | I started an internship with the [MOSAIC group at AI2](https://mosaic.allenai.org/), advised by [Ronan Le Bras](https://rlebras.github.io/index.html) and [Yejin Choi](https://homes.cs.washington.edu/~yejin/)! Working on goal-directed, commonsense reasoning.| 

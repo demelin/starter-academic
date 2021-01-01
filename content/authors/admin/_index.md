@@ -82,4 +82,4 @@ Our work has demonstrated that NMT models [rely on shallow heuristics when infer
 
 Recently, I completed an internship with the [MOSAIC group at the Allen Institute of Artificial Intelligence](https://mosaic.allenai.org/), where I investigated **commonsense reasoning** abilities of state-of-the-art models of language.  
 
-In my spare time, I enjoy climbing, learning new things, and caring for my  orchard.
+In my spare time, I enjoy climbing, learning new things, and caring for my future orchard.
