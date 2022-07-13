@@ -78,7 +78,7 @@ highlight_name: false
 
 Hello! I'm pursuing a PhD at the University of Edinburgh, where I'm advised by [Dr. Rico Sennrich](https://www.cl.uzh.ch/de/people/team/compling/sennrich.html) and [Dr. Ivan Titov](http://ivan-titov.org/). My research aims to **explore** and **improve** the extent of **language understanding** in **neural machine translation** and **(multi-lingual) language modeling**.  
 
-Our work has demonstrated that NMT models [rely on shallow heuristics when inferring the right sense of ambiguous words](https://www.aclweb.org/anthology/2020.emnlp-main.616/), and [improved the ability of transformer models to represent lexical and contextual information](https://www.aclweb.org/anthology/W19-5211/). More recently, we [showcased that state-of-the-art translation and multi-lingual language models perform poorly on tasks that incorporate commonsense reasoning](https://aclanthology.org/2021.emnlp-main.670.pdf).  
+Our work has demonstrated that NMT models [rely on shallow heuristics when inferring the right sense of ambiguous words](https://www.aclweb.org/anthology/2020.emnlp-main.616/), and [improved the ability of transformer models to represent lexical and contextual information](https://www.aclweb.org/anthology/W19-5211/). More recently, we [showcased that state-of-the-art translation and multi-lingual language models perform poorly on tasks that incorporate commonsense reasoning](https://aclanthology.org/2021.emnlp-main.670).  
 
 Related phenomena, such as co-reference resolution, discourse processing, and translation of figurative language are also among my varied research interests.  
 
