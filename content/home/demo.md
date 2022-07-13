@@ -32,6 +32,11 @@ subtitle = ""
 +++
 |          |                                                                                                                                  |
 |----------|----------------------------------------------------------------------------------------------------------------------------------|
+| Jul 2022 | ['Reducing Disambiguation Biases in NMT by Leveraging Explicit Word Sense Information'](https://aclanthology.org/2022.naacl-main.355.pdf) was published in the Proceedings of NAACL 2022! Happy to have contributed to such an interesting project! |
+| Jun 2022 | ['Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models'](https://arxiv.org/pdf/2206.04615.pdf). Thrilled to be involved in such an important and massive collaboration! |
+| Nov 2021 | Presented ['Moral Stories: Situated Reasoning about Norms, Intents, Actions, and their Consequences'](https://aclanthology.org/2021.emnlp-main.54.pdf) and [Wino-X: Multilingual Winograd Schemas for Commonsense Reasoning and Coreference Resolution](https://aclanthology.org/2021.emnlp-main.670.pdf) at [EMNPLP 2021] |
+| Nov 2021 | [Wino-X: Multilingual Winograd Schemas for Commonsense Reasoning and Coreference Resolution](https://aclanthology.org/2021.emnlp-main.670.pdf). Many thanks to my wonderful collaborators and advisors! |
+| Jun 2021 | I started an internship with [Amazon](https://www.amazon.science/), advised by [Saab Mansour](https://www.amazon.science/author/saab-mansour)! Working on task-oriented dialogue systems and knowledge injection into neural networks. |
 | Dec 2020 | Published ['Moral Stories: Situated Reasoning about Norms, Intents, Actions, and their Consequences'](https://arxiv.org/pdf/2012.15738.pdf). Many thanks to my wonderful collaborators!|
 | Nov 2020 | Presented ['Detecting Word Sense Disambiguation Biases in Machine Translation for Model-Agnostic Adversarial Attacks'](https://www.aclweb.org/anthology/2020.emnlp-main.616.pdf) at [EMNPLP 2020](https://slideslive.com/38939052) |
 | Sep 2020 | ['Detecting Word Sense Disambiguation Biases in Machine Translation for Model-Agnostic Adversarial Attacks'](https://arxiv.org/abs/2011.01846) has been accepted as a long paper to EMNLP 2020! |

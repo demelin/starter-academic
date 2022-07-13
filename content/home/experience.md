@@ -19,9 +19,26 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Research Intern"
+  company = "Amazon / Amazon Web Services (AWS)"
+  company_url = "https://www.amazon.science/"
+  location = "Santa Clara, California, USA (remote)"
+  date_start = "2021-06-01"
+  date_end = "2021-10-01"
+  description = """
+  Ivestigated and implemented strategies for **injecting factual knowledge** into **task-oriented dialogue systems** to improve the consistency of generated dialogue responses with task-specific knowledge bases.  
+  
+  Accomplishments:
+  * Developed an adapter-based method for injecting factual knowledge into the parameters of neural langauge models for dialogue generation 
+  * Assessed accuracy of knowledge retrieved at inference time through thorough experimental evaluation
+  * Performed extensive ablation studies and model analysis across different dialogue domains
+  """
+
+
+[[experience]]
+  title = "Research Intern"
   company = "Allen Institute for Artificial Intelligence (AI2)"
   company_url = "https://allenai.org/"
-  location = "Seattle, Washington, USA"
+  location = "Seattle, Washington, USA (remote)"
   date_start = "2020-06-01"
   date_end = "2020-09-01"
   description = """
